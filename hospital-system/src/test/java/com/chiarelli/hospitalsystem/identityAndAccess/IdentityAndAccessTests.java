@@ -1,10 +1,10 @@
-package com.chiarelli.hospitalsystem.hospitalsystem;
+package com.chiarelli.hospitalsystem.identityAndAccess;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HospitalSystemApplicationTests {
+class IdentityAndAccessTests {
 
 	@Test
 	void contextLoads() {

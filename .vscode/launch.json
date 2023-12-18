@@ -2,6 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Spring Boot-IdentityAndAccessApplication<hospital-system>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.chiarelli.hospitalsystem.identityAndAccess.IdentityAndAccessApplication",
+            "projectName": "hospital-system",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-HospitalSystemApplication<hospital-system>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
